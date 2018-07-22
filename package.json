@@ -1,15 +1,17 @@
 {
-  "name": "VaxeTurkiye",
+  "name": "YardımcıBot",
   "version": "0.0.1",
-  "description": "VaxeTurkiye",
+  "description": "YardımcıBot",
   "main": "bot.js",
   "dependencies": {
     "cat-names": "^1.0.2",
     "chalk": "^2.4.1",
     "cleverbot-node": "^0.3.11",
     "colors": "^1.2.4",
+    "command.js": "0.0.1",
     "cool-images": "^1.0.1",
     "discord.js": "^11.3.2",
+    "discord.js-commando": "^0.10.0",
     "dog-names": "^1.0.2",
     "fuzzysearch": "^1.0.3",
     "g-image-search": "^1.0.2",
@@ -38,7 +40,7 @@
     "type": "",
     "url": ""
   },
-  "author": "xChairs",
+  "author": "ibrahim",
   "license": "MIT",
   "bugs": {
     "url": ""
