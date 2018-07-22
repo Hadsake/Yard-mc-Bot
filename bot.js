@@ -345,4 +345,4 @@ client.on('ready', () => {
  
 // Biz type: "" kismini WATCHING olarak ayarladik bu botun oynuyor kisminin izliyor olarak gozukmesini saglayacaktir, isterseniz WATCHING yerine PLAYING yazip normal sekilde oynuyor olarak gorunmesini veya STREAMING yapip yayinda olarak gorunmesini saglayabilirsiniz.
 
-client.login(ayarlar.token);
+client.login(process.env.BOT_TOKEN);
